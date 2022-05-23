@@ -2,17 +2,7 @@
   "name": "react-shopping-cart",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "axios": "^0.27.2",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "react-redux": "^8.0.1",
-    "react-router-dom": "^6.3.0",
-    "react-scripts": "5.0.1",
-    "redux": "^4.2.0",
-    "redux-thunk": "^2.4.1",
-    "styled-components": "^5.3.5"
-  },
+  "dependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -49,6 +39,15 @@
     ]
   },
   "devDependencies": {
+    "axios": "^0.27.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-redux": "^8.0.1",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "styled-components": "^5.3.5",
     "@redux-devtools/extension": "^3.2.2",
     "@storybook/addon-actions": "^6.4.22",
     "@storybook/addon-essentials": "^6.4.22",
